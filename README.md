@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SameerBanarjee
+- 👋 Hi, I’m Sameer Banarjee
 - 👀 I’m interested in Web Development, Problem Solving, Competititve Programming & Data Science.
 - 🌱 I’m currently learning C++, Python, Backend Development.
 - 💞️ I’m looking to collaborate on building websites or projects build on C++/Python.
